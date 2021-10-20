@@ -8,8 +8,9 @@ The Home Work has to be delievered before 9AM: ⚠️
 
 ### Create a Gui with following features:
 - Add JTextArea to the frame to show the output of messages
-- Add JTextFeild to allow the user to input messages
-- Add JButton to button to send messages from JTextFeild to JTextArea 
+- Add JTextField to allow the user to input messages
+- Add JButton to button to send messages 
+- Create addActionListener for the JButton to send messeges to the JTextArea 
 
 ![alt text](https://github.com/Tuwaiq-KotlinAndroid2-DMM/HW_Week2_Day4_WorkingWithGui/blob/main/Gui.png)
 
